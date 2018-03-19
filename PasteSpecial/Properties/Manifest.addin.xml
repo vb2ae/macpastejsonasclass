@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+    <Runtime>
+        <Extension path="/MonoDevelop/Ide/Commands/Edit">
+ <command id="DateInserter.DateInserterCommands.InsertDate"
+           _label="Insert Date"
+           _description="Insert the current date"
+           defaulthandler="DateInserter.InsertDateHandler" />
+</Extension>
+    </Runtime>
+</ExtensionModel>
